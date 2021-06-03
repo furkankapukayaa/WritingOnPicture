@@ -1,5 +1,5 @@
 # WritingOnPicture
-### C# Windows Form yapısıyla openfiledialog, savefiledialog ,colordialog ve bitmap kullanılarak seçilen resim üzerine yazı yazma programıdır.
+### C# Windows Form yapısıyla openfiledialog, savefiledialog, colordialog ve bitmap kullanılarak seçilen resim üzerine yazı yazma programıdır.
 ### Programdan Ekran Görüntüleri
 <img src="https://github.com/furkankapukayaa/WritingOnPicture/blob/main/Images/0.png" width="600px"> <br>
 <img src="https://github.com/furkankapukayaa/WritingOnPicture/blob/main/Images/1.png" width="600px"> <br>
