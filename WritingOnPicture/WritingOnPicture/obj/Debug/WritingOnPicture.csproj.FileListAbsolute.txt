@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\WritingOnPicture\WritingOnPicture\bin\Debug\WritingOnPicture.exe.config
+C:\Users\user\source\repos\WritingOnPicture\WritingOnPicture\bin\Debug\WritingOnPicture.exe
+C:\Users\user\source\repos\WritingOnPicture\WritingOnPicture\bin\Debug\WritingOnPicture.pdb
+C:\Users\user\source\repos\WritingOnPicture\WritingOnPicture\obj\Debug\WritingOnPicture.csprojAssemblyReference.cache
+C:\Users\user\source\repos\WritingOnPicture\WritingOnPicture\obj\Debug\WritingOnPicture.Form1.resources
+C:\Users\user\source\repos\WritingOnPicture\WritingOnPicture\obj\Debug\WritingOnPicture.Properties.Resources.resources
+C:\Users\user\source\repos\WritingOnPicture\WritingOnPicture\obj\Debug\WritingOnPicture.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WritingOnPicture\WritingOnPicture\obj\Debug\WritingOnPicture.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WritingOnPicture\WritingOnPicture\obj\Debug\WritingOnPicture.exe
+C:\Users\user\source\repos\WritingOnPicture\WritingOnPicture\obj\Debug\WritingOnPicture.pdb
+C:\Users\user\source\repos\WritingOnPicture\WritingOnPicture\bin\Debug\ko-KP\WritingOnPicture.resources.dll
+C:\Users\user\source\repos\WritingOnPicture\WritingOnPicture\obj\Debug\WritingOnPicture.Form1.ko-KP.resources
+C:\Users\user\source\repos\WritingOnPicture\WritingOnPicture\obj\Debug\ko-KP\WritingOnPicture.resources.dll
